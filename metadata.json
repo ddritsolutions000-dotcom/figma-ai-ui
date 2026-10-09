@@ -1,0 +1,6 @@
+{
+  "name": "Figma AI — Unified Creative Design Platform",
+  "description": "Professional Figma-class visual design editor with autonomous AI product design, architecture planning, tokenized design systems, and interactive prototyping engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
